@@ -30,3 +30,5 @@
 - Provide the amount of how many messages you want to send. You can send any amount of messages you want.
 - Run the program and quickly take your cursor to the desired text box. For using the comment section of any media, click on the text box of the comment section. If you want to use this in any chat box, take the cursor to the chatbox and click on the text box for once. 
 - Voila! The Automated text bombing has been started!
+
+![Output Sample](img/text_bombing.png)
