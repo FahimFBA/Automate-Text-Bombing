@@ -38,3 +38,6 @@
 
 
 [![Stargazers repo roster for @FahimFBA/Automate-Text-Bombing](https://reporoster.com/stars/FahimFBA/Automate-Text-Bombing)](https://github.com/FahimFBA/Automate-Text-Bombing/stargazers)
+
+
+[![Forkers repo roster for @FahimFBA/Automate-Text-Bombing](https://reporoster.com/forks/FahimFBA/Automate-Text-Bombing)](https://github.com/FahimFBA/Automate-Text-Bombing/network/members)
